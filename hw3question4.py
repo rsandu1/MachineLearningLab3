@@ -1,3 +1,6 @@
+# CISC 5800 Homework 3 Question 4
+# Robert Sandu
+
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 
